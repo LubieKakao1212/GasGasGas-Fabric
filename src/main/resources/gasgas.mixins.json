@@ -3,7 +3,7 @@
 	"package": "com.gasgas.mixin",
 	"compatibilityLevel": "JAVA_17",
 	"mixins": [
-		"ExampleMixin"
+		"BlockChangedMixin"
 	],
 	"injectors": {
 		"defaultRequire": 1
